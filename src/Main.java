@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args) {
 
         float balance = 214.89F;
-        float incomeSum = 1500F;
+        float incomeSum = 1847.85F;
         float threshold = 1000F;
-        short bonusPrice = 18;
+        short bonusPrice = 100;
         int bonusSum;
         float totalSum;
 
